@@ -9,7 +9,9 @@ https://user-images.githubusercontent.com/78879424/230406569-3eeb28f5-4000-49e1-
 
 
 
-**Python Notebook:** 
+** Python Notebook:** sign-language-classification.ipynb
 
 
-sign-language-classification.ipynb
+** Conclusion**
+
+Using Sequential Model (CNN), I achieved 99% accuracy.
